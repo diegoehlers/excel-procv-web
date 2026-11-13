@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Excel PROCV
+Comment=Fazer PROCV automático no Excel
+Exec=/home/diego/Documentos/Excel_PROCV/iniciar_app.sh
+Icon=/home/diego/Documentos/Excel_PROCV/icone.png
+Terminal=true
+Categories=Office;Utility;
